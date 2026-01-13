@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ウルトラレアキッス",
+  "base_artist": "≠ME",
+  "createdAt": "2026-01-13T13:15:41.699475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウルトラレアキッス",
+      "artist": "Not Equal Me",
+      "has_synced": false,
+      "path": "select/01_ウルトラレアキッス_Not_Equal_Me.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウルトラレアキッス",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_ウルトラレアキッス_≠ME.txt"
+    }
+  ]
+}
